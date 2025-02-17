@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed S Waleed</h1>
+<p>&nbsp<img align="center" src="https://github.com/SSulaimanW345/SSulaimanW345/blob/master/gitgub-banner.jpg?raw=true" alt="Banner of a developer sitting in front of a desk"></p>
 <h3 align="center">🚀 A passionate C# full-stack developer building functional, scalable, and user-friendly applications with creativity and precision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssulaimanw345&label=Profile%20views&color=0e75b6&style=flat" alt="ssulaimanw345" /> </p>
